@@ -19,7 +19,9 @@ class School
    end
   end 
   
-  student.sort
+  def sort(student)
+    student.sort 
+  end 
   
    
 end 
