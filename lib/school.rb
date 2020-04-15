@@ -19,7 +19,7 @@ class School
    end
   end 
   
-  
+  student.sort
   
    
 end 
