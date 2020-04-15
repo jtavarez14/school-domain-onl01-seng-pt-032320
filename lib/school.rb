@@ -19,7 +19,9 @@ class School
    end
   end 
   
-  def sort(student)
+  def sort
+    sorted_roster = {}
+    
    
   end 
   
