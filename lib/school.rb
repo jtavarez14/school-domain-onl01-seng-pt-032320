@@ -13,7 +13,7 @@ class School
   
   def grade(grade)
     if grade == roster[grade] 
-    return roster[student]
+    print roster[student]
     end
   end 
   
